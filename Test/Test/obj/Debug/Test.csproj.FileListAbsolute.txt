@@ -1,0 +1,7 @@
+C:\Users\jt146476\Desktop\C-sharp\Test\Test\bin\Debug\Test.exe.config
+C:\Users\jt146476\Desktop\C-sharp\Test\Test\bin\Debug\Test.exe
+C:\Users\jt146476\Desktop\C-sharp\Test\Test\bin\Debug\Test.pdb
+C:\Users\jt146476\Desktop\C-sharp\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\jt146476\Desktop\C-sharp\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\jt146476\Desktop\C-sharp\Test\Test\obj\Debug\Test.exe
+C:\Users\jt146476\Desktop\C-sharp\Test\Test\obj\Debug\Test.pdb

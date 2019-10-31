@@ -1,0 +1,7 @@
+C:\Users\jt146476\Desktop\C-sharp\Chapter 1\PersonalInfo\Lyrics\bin\Debug\Lyrics.exe.config
+C:\Users\jt146476\Desktop\C-sharp\Chapter 1\PersonalInfo\Lyrics\bin\Debug\Lyrics.exe
+C:\Users\jt146476\Desktop\C-sharp\Chapter 1\PersonalInfo\Lyrics\bin\Debug\Lyrics.pdb
+C:\Users\jt146476\Desktop\C-sharp\Chapter 1\PersonalInfo\Lyrics\obj\Debug\Lyrics.csprojAssemblyReference.cache
+C:\Users\jt146476\Desktop\C-sharp\Chapter 1\PersonalInfo\Lyrics\obj\Debug\Lyrics.csproj.CoreCompileInputs.cache
+C:\Users\jt146476\Desktop\C-sharp\Chapter 1\PersonalInfo\Lyrics\obj\Debug\Lyrics.exe
+C:\Users\jt146476\Desktop\C-sharp\Chapter 1\PersonalInfo\Lyrics\obj\Debug\Lyrics.pdb
